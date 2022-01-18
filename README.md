@@ -4,9 +4,9 @@
 
 Generates fractal mountains. 
 
-Recursively generates triangles, but adds random noise to morph and bend edges at the midpoints. 
+Recursively generates triangles, adding random noise to morph and bend edges at the midpoints. This creates an impressive looking mountain! 
 
-Was inspired to do this by the book "The Magic Machine". But that book did not use a recursive algorith.
+Was inspired by the book "The Magic Machine". But that book did not use a recursive algorithm.
 
 Learn more about here: https://en.wikipedia.org/wiki/Fractal_landscape
 
